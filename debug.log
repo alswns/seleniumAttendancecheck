@@ -12,3 +12,39 @@
 [0417/222843.537:ERROR:exception_snapshot_win.cc(98)] thread ID 20376 not found in process
 [0417/222843.558:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
 [0417/222843.558:ERROR:exception_snapshot_win.cc(98)] thread ID 19776 not found in process
+[0418/214605.898:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0418/214605.905:ERROR:exception_snapshot_win.cc(98)] thread ID 23352 not found in process
+[0418/214605.983:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0418/214605.983:ERROR:exception_snapshot_win.cc(98)] thread ID 23116 not found in process
+[0418/214640.345:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0418/214640.346:ERROR:exception_snapshot_win.cc(98)] thread ID 17500 not found in process
+[0418/214640.447:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0418/214640.447:ERROR:exception_snapshot_win.cc(98)] thread ID 10636 not found in process
+[0419/194932.529:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/194932.530:ERROR:exception_snapshot_win.cc(98)] thread ID 12952 not found in process
+[0419/194932.587:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/194932.587:ERROR:exception_snapshot_win.cc(98)] thread ID 25384 not found in process
+[0419/194949.958:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0419/194949.959:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0419/194949.959:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/194949.960:ERROR:exception_snapshot_win.cc(98)] thread ID 8184 not found in process
+[0419/194949.964:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/194949.964:ERROR:exception_snapshot_win.cc(98)] thread ID 1536 not found in process
+[0419/194950.027:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/194950.027:ERROR:exception_snapshot_win.cc(98)] thread ID 7268 not found in process
+[0419/195347.694:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/195347.696:ERROR:exception_snapshot_win.cc(98)] thread ID 19304 not found in process
+[0419/195347.714:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/195347.714:ERROR:exception_snapshot_win.cc(98)] thread ID 16928 not found in process
+[0419/195347.802:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/195347.802:ERROR:exception_snapshot_win.cc(98)] thread ID 7484 not found in process
+[0419/195348.797:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/195348.798:ERROR:exception_snapshot_win.cc(98)] thread ID 20796 not found in process
+[0419/195349.998:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/195349.999:ERROR:exception_snapshot_win.cc(98)] thread ID 19780 not found in process
+[0419/195350.016:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/195350.016:ERROR:exception_snapshot_win.cc(98)] thread ID 11232 not found in process
+[0419/195350.097:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/195350.097:ERROR:exception_snapshot_win.cc(98)] thread ID 22160 not found in process
+[0419/195351.245:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0419/195351.246:ERROR:exception_snapshot_win.cc(98)] thread ID 6632 not found in process
